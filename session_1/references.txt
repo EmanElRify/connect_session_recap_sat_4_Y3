@@ -2,7 +2,7 @@ Activity 1
 https://docs.google.com/document/d/1Uc9pLzBXO3AA656pd499vqEtQY_iHyaU3px4VjDcG3o/edit?usp=sharing
 
 Github Link
-https://github.com/EmanElRify/connect_session_recap_fri_8_Y3
+https://github.com/EmanElRify/connect_session_recap_sat_4_Y3
 
 Installing Python
 
